@@ -1,4 +1,4 @@
-### Hi there👋, I'm Mianh Park
+### Hi there👋, I'm Min-ah Park
 
 majoring in **Computer Science & Engineering**, Kyung-Hee University
 
