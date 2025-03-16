@@ -12,7 +12,7 @@ majoring in **Computer Science & Engineering**, Kyung-Hee University
 
 🏆 Awards
 - 2023.08.12 중앙대학교 인공지능인문학 학술논문경영대회 **장려상**
-  - [텍스트 마이닝을 활용한 저출산 키워드 분석: 소셜 네트워크 탐색을 통해](http://aihumanities.org/local/notice/reference/?board_page=3&vid=100)
+  - [텍스트 마이닝을 활용한 저출산 키워드 분석: 소셜 네트워크 탐색을 통해](https://drive.google.com/file/d/1HMHuVXXpmQiZsvG9FyCdXpj4UNSMatM0/view?usp=sharing)
 
 💻 Projects
 - 2024.03 ~ 2024.06 딥러닝 기반 한국어 소설 텍스트 버전 관리 서비스 🔗 [link](https://github.com/fmaPark/novel-addition-summerize-model)
