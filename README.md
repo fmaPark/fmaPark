@@ -2,6 +2,7 @@
 
 사람과 문제를 이해하는 개발자
 
+- 📂 Portfolio · [portfolio-mapark.vercel.app](https://portfolio-mapark.vercel.app)
 - 📫 mapark.dev@gmail.com
 - 🎓 경희대학교 컴퓨터공학과 졸업 (2024.08)
 
