@@ -34,9 +34,6 @@
   - 2024.04 ~ 2024.06 유튜브 뉴스 댓글 분석을 통한 ChatGPT 여론조사 - 댓글 5,871건 수집·감성 분류·의미연결망 분석, 단독 🔗 [link](https://github.com/fmaPark/Analysis-of-ChatGPT-News-Comment-Corpus)
   - 2023.06 ~ 2023.07 생성모델을 활용한 AI 소설 생성 - KoAlpaca 파인튜닝 소설 창작 AI, 데이터 수집·전처리 담당 🔗 [link](https://github.com/khuda-3rd/team8_AI_novel_generator)
 
-🌱 Open Source
-- [wafflebase](https://github.com/wafflebase/wafflebase) - 웹 기반 협업 오피스 스위트, 표·CSV 스키마 출력 수정 PR 머지 ([#705](https://github.com/wafflebase/wafflebase/pull/705))
-
 🏆 Awards
 - 2023.08.12 중앙대학교 인공지능인문학 학술논문경연대회 **장려상**
   - [텍스트 마이닝을 활용한 저출산 키워드 분석: 소셜 네트워크 탐색을 통해](https://drive.google.com/file/d/1HMHuVXXpmQiZsvG9FyCdXpj4UNSMatM0/view?usp=sharing) - 공저 · 기술 파트 전담
